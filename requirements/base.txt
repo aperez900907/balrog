@@ -52,9 +52,9 @@ future==0.18.2 \
 google-api-core==1.31.0 \
     --hash=sha256:7c8ba88e2b893ef4f67d67e229aade51a2db5053023b73b1394a5ee3dcdb561c \
     --hash=sha256:a9f979b5c6a9cad31a4120ca6be712df76adc32336a7bf4bc2f4331a1b527fe7
-google-auth==1.6.3 \
-    --hash=sha256:0f7c6a64927d34c1a474da92cfc59e552a5d3b940d3266606c6a28b72888b9e4 \
-    --hash=sha256:20705f6803fd2c4d1cc2dcb0df09d4dfcb9a7d51fd59e94a3a28231fd93119ed
+google-auth==1.33.0 \
+    --hash=sha256:9bd25d835c01ca3dd9045ea0b50f036e3fe3868ee2c5a9773a661925bbdf46ca \
+    --hash=sha256:a756a33978fac611e4f00b69715b80e35467c30cc6262132d29d33a0e398ac55
 google-cloud-core==1.0.3 \
     --hash=sha256:0ee17abc74ff02176bee221d4896a00a3c202f3fb07125a7d814ccabd20d7eb5 \
     --hash=sha256:10750207c1a9ad6f6e082d91dbff3920443bdaf1c344a782730489a9efa802f1 \
