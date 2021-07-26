@@ -71,10 +71,9 @@ importlib-metadata==4.6.1 \
 more-itertools==8.8.0 \
     --hash=sha256:2cf89ec599962f2ddc4d568a05defc40e0a587fbc10d5989713638864c36be4d \
     --hash=sha256:83f0308e05477c68f56ea3a888172c78ed5d5b3c282addb67508e7ba6c8f813a    # via pytest, zipp
-packaging==19.1 \
-    --hash=sha256:a7ac867b97fdc07ee80a8058fe4435ccd274ecc3b0ed61d852d7d53055528cf9 \
-    --hash=sha256:c491ca87294da7cc01902edbe30a5bc6c4c28172b5138ab4e4aa1b9d7bfaeafe \
-    # via pytest
+packaging==21.0 \
+    --hash=sha256:7dc96269f53a4ccec5c0670940a4281106dd0bb343f47b7471f779df49c2fbe7 \
+    --hash=sha256:c86254f9220d55e31cc94d69bade760f0847da8000def4dfe1c6b872fd14ff14    # via pytest
 pluggy==0.13.0 \
     --hash=sha256:0db4b7601aae1d35b4a033282da476845aa19185c1e6964b25cf324b5e4ec3e6 \
     --hash=sha256:fa5fa1622fa6dd5c030e9cad086fa19ef6a0cf6d7a2d12318e10cb49d6d68f34 \
