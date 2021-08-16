@@ -299,10 +299,9 @@ sqlalchemy==1.4.22 \
     --hash=sha256:f028ef6a1d828bc754852a022b2160e036202ac8658a6c7d34875aafd14a9a15 \
     --hash=sha256:f814d80844969b0d22ea63663da4de5ca1c434cfbae226188901e5d368792c17 \
     --hash=sha256:fd2102a8f8a659522719ed73865dff3d3cc76eb0833039dc473e0ad3041d04be
-sqlparse==0.3.0 \
-    --hash=sha256:40afe6b8d4b1117e7dff5504d7a8ce07d9a1b15aeeade8a2d10f130a834f8177 \
-    --hash=sha256:7c3dca29c022744e95b547e867cee89f4fce4373f3549ccd8797d8eb52cdb873 \
-    # via sqlalchemy-migrate
+sqlparse==0.4.1 \
+    --hash=sha256:017cde379adbd6a1f15a61873f43e8274179378e95ef3fede90b5aa64d304ed0 \
+    --hash=sha256:0f91fd2e829c44362cbcfab3e9ae12e22badaa8a29ad5ff599f9ec109f0454e8    # via sqlalchemy-migrate
 swagger-spec-validator==2.3.1 \
     --hash=sha256:dc902093b7c5720326aab1cf150410079d319fb5672643422555c17da127c482 \
     --hash=sha256:f1a74627c439774edd30132d25cdb7583aa044deaf46333c745bb8b7c0461b75
