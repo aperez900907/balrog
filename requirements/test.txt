@@ -111,9 +111,9 @@ more-itertools==8.10.0 \
 packaging==21.0 \
     --hash=sha256:7dc96269f53a4ccec5c0670940a4281106dd0bb343f47b7471f779df49c2fbe7 \
     --hash=sha256:c86254f9220d55e31cc94d69bade760f0847da8000def4dfe1c6b872fd14ff14    # via pytest
-pip-compile-multi==1.5.8 \
-    --hash=sha256:6c77a2cdae62c28d6c151111e6a38ca9935ef37898f9766100ec2064326d74e9 \
-    --hash=sha256:fd92e064e8b187ce919a9b1e22bc7ff41e630bbfba8a9ab0501c260a2580feda
+pip-compile-multi==2.4.1 \
+    --hash=sha256:deb0ab419dee9d5208e4dea6c99f40e59d58b953ae0fa792b9e9a7f019dda1ad \
+    --hash=sha256:f9d67039d83f2c82034dc8725acc5906f7ca64d41267739aa56706c72d7ae9f6
 pip-tools==4.1.0 \
     --hash=sha256:156a950612e400bf951fc8139ed5420fbeb6a0d639fe8771344658b751a3f21e \
     --hash=sha256:69a1fd795bb95002b37217d62306026e67ef17012e9f6cfb1c3bfab5c3c4bb2c \
