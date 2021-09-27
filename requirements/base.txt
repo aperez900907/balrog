@@ -8,9 +8,9 @@
 arrow==1.1.1 \
     --hash=sha256:77a60a4db5766d900a2085ce9074c5c7b8e2c99afeaa98ad627637ff6f292510 \
     --hash=sha256:dee7602f6c60e3ec510095b5e301441bc56288cb8f51def14dcb3079f623823a
-auth0-python==3.9.1 \
-    --hash=sha256:bdeb7b0c5e74dd91aab67af9e4bf466a30df34d1eb5f7ea638db542108a29a51 \
-    --hash=sha256:c2fdc3ff230638a2776d2b3761e787ca93dc33a26f841504fc260f947256f453
+auth0-python==3.18.0 \
+    --hash=sha256:8e2b4917ea6e5da2efdeac893a32c57adcf14699e56e2e01292d13cc398245ef \
+    --hash=sha256:b039ff88435f74350fc275b9c7b19a1ee900afd431a25c993de2af5debbda3ea
 blinker==1.4 \
     --hash=sha256:471aee25f3992bd325afa3772f1063dbdbbca947a041b8b89466dc00d606f8b6 \
     # via raven
