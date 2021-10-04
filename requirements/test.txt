@@ -6,10 +6,9 @@
 #    pip-compile-multi
 #
 -r base.txt
-apipkg==1.5 \
-    --hash=sha256:37228cda29411948b422fae072f57e31d3396d2ee1c9783775980ee9c9990af6 \
-    --hash=sha256:58587dd4dc3daefad0487f6d9ae32b4542b185e1c36db6993290e7c41ca2b47c \
-    # via execnet
+apipkg==2.0.0 \
+    --hash=sha256:57ff978a568651da62272034ca5214e61d6f41aa496d695942e0188084ec0298 \
+    --hash=sha256:85c13e99ab26511a09ec1069e1f3c9bc7d544620491923f73426d8e6eaba0125    # via execnet
 appdirs==1.4.3 \
     --hash=sha256:9e5896d1372858f8dd3344faf4e5014d21849c756c8d5701f78f8a103b372d92 \
     --hash=sha256:d8b24664561d0d34ddfaec54636d502d7cea6e29c3eaf68f3df6180863e2166e \
