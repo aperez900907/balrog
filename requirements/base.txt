@@ -310,10 +310,9 @@ uwsgi==2.0.19.1 \
 werkzeug==2.0.1 \
     --hash=sha256:1de1db30d010ff1af14a009224ec49ab2329ad2cde454c8a708130642d579c42 \
     --hash=sha256:6c1ec500dcdba0baa27600f6a22f6333d8b662d22027ff9f6202e3367413caa8    # via flask
-wtforms==2.2.1 \
-    --hash=sha256:0cdbac3e7f6878086c334aa25dc5a33869a3954e9d1e015130d65a69309b3b61 \
-    --hash=sha256:e3ee092c827582c50877cdbd49e9ce6d2c5c1f6561f849b3b068c1b8029626f1 \
-    # via flask-wtf
+wtforms==2.3.3 \
+    --hash=sha256:7b504fc724d0d1d4d5d5c114e778ec88c37ea53144683e084215eed5155ada4c \
+    --hash=sha256:81195de0ac94fbc8368abbaf9197b88c4f3ffd6c2719b5bf5fc9da744f3d829c    # via flask-wtf
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==41.2.0 \
