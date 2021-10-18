@@ -89,10 +89,9 @@ mock==3.0.5 \
 more-itertools==8.10.0 \
     --hash=sha256:1debcabeb1df793814859d64a81ad7cb10504c24349368ccf214c664c474f41f \
     --hash=sha256:56ddac45541718ba332db05f464bebfb0768110111affd27f66e0051f276fa43    # via pytest, zipp
-packaging==19.2 \
-    --hash=sha256:28b924174df7a2fa32c1953825ff29c61e2f5e082343165438812f00d3a7fc47 \
-    --hash=sha256:d9551545c6d761f3def1677baf08ab2a3ca17c56879e70fecba2fc4dde4ed108 \
-    # via pytest
+packaging==21.0 \
+    --hash=sha256:7dc96269f53a4ccec5c0670940a4281106dd0bb343f47b7471f779df49c2fbe7 \
+    --hash=sha256:c86254f9220d55e31cc94d69bade760f0847da8000def4dfe1c6b872fd14ff14    # via pytest
 pip-compile-multi==1.5.8 \
     --hash=sha256:6c77a2cdae62c28d6c151111e6a38ca9935ef37898f9766100ec2064326d74e9 \
     --hash=sha256:fd92e064e8b187ce919a9b1e22bc7ff41e630bbfba8a9ab0501c260a2580feda
