@@ -97,10 +97,9 @@ mccabe==0.6.1 \
 more-itertools==8.10.0 \
     --hash=sha256:1debcabeb1df793814859d64a81ad7cb10504c24349368ccf214c664c474f41f \
     --hash=sha256:56ddac45541718ba332db05f464bebfb0768110111affd27f66e0051f276fa43    # via pytest, zipp
-packaging==19.1 \
-    --hash=sha256:a7ac867b97fdc07ee80a8058fe4435ccd274ecc3b0ed61d852d7d53055528cf9 \
-    --hash=sha256:c491ca87294da7cc01902edbe30a5bc6c4c28172b5138ab4e4aa1b9d7bfaeafe \
-    # via pytest
+packaging==21.2 \
+    --hash=sha256:096d689d78ca690e4cd8a89568ba06d07ca097e3306a4381635073ca91479966 \
+    --hash=sha256:14317396d1e8cdb122989b916fa2c7e9ca8e2be9e8060a6eff75b6b7b4d8a7e0    # via pytest
 pip-compile-multi==1.5.2 \
     --hash=sha256:015eac92bb2d4ced445d48aaeb9c0738ced606be8a73563ab83dec4861210f8f \
     --hash=sha256:ca7965a5a9a57c88672cbba96f9f2c73e770b9605d69c9a03040741d7d191eef
