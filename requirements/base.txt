@@ -161,10 +161,9 @@ mysqlclient==2.0.3 \
     --hash=sha256:71c4b330cf2313bbda0307fc858cc9055e64493ba9bf28454d25cf8b3ee8d7f5 \
     --hash=sha256:f6ebea7c008f155baeefe16c56cd3ee6239f7a5a9ae42396c2f1860f08a7c432 \
     --hash=sha256:fc575093cf81b6605bed84653e48b277318b880dc9becf42dd47fa11ffd3e2b6
-pbr==5.4.3 \
-    --hash=sha256:2c8e420cd4ed4cec4e7999ee47409e876af575d4c35a45840d59e8b5f3155ab8 \
-    --hash=sha256:b32c8ccaac7b1a20c0ce00ce317642e6cf231cf038f9875e0280e28af5bf7ac9 \
-    # via sqlalchemy-migrate
+pbr==5.7.0 \
+    --hash=sha256:4651ca1445e80f2781827305de3d76b3ce53195f2227762684eb08f17bc473b7 \
+    --hash=sha256:60002958e459b195e8dbe61bf22bcf344eedf1b4e03a321a5414feb15566100c    # via sqlalchemy-migrate
 protobuf==3.10.0 \
     --hash=sha256:125713564d8cfed7610e52444c9769b8dcb0b55e25cc7841f2290ee7bc86636f \
     --hash=sha256:1accdb7a47e51503be64d9a57543964ba674edac103215576399d2d0e34eac77 \
