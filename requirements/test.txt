@@ -21,9 +21,9 @@ attrs==21.2.0 \
 black==21.11b1 \
     --hash=sha256:802c6c30b637b28645b7fde282ed2569c0cd777dbe493a41b6a03c1d903f99ac \
     --hash=sha256:a042adbb18b3262faad5aff4e834ff186bb893f95ba3a8013f09de1e5569def2
-check-manifest==0.39 \
-    --hash=sha256:8754cc8efd7c062a3705b442d1c23ff702d4477b41a269c2e354b25e1f5535a4 \
-    --hash=sha256:a4c555f658a7c135b8a22bd26c2e55cfaf5876e4d5962d8c25652f2addd556bc
+check-manifest==0.47 \
+    --hash=sha256:365c94d65de4c927d9d8b505371d08ee19f9f369c86b9ac3db97c2754c827c95 \
+    --hash=sha256:56dadd260a9c7d550b159796d2894b6d0bcc176a94cbc426d9bb93e5e48d12ce
 coverage==4.5.4 \
     --hash=sha256:08907593569fe59baca0bf152c43f3863201efb6113ecb38ce7e97ce339805a6 \
     --hash=sha256:0be0f1ed45fc0c185cfd4ecc19a1d6532d72f86a2bac9de7e24541febad72650 \
