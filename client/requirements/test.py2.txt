@@ -15,10 +15,9 @@ attrs==21.2.0 \
 configparser==5.1.0 \
     --hash=sha256:202b9679a809b703720afa2eacaad4c6c2d63196070e5d9edc953c0489dfd536 \
     --hash=sha256:f99c2256b24c551de13cf9e42c7b5db96fb133f0ca4de5dcb1df1aaf89f48298    # via importlib-metadata
-contextlib2==0.5.5 \
-    --hash=sha256:509f9419ee91cdd00ba34443217d5ca51f5a364a404e1dce9e8979cea969ca48 \
-    --hash=sha256:f5260a6e679d2ff42ec91ec5252f4eeffdcf21053db9113bd0a8e4d953769c00 \
-    # via importlib-metadata
+contextlib2==21.6.0 \
+    --hash=sha256:3fbdb64466afd23abaf6c977627b75b6139a5a3e8ce38405c5b413aed7a0471f \
+    --hash=sha256:ab1e2bfe1d01d968e1b7e8d9023bc51ef3509bba217bb730cee3827e1ee82869    # via importlib-metadata
 coverage==6.2 \
     --hash=sha256:01774a2c2c729619760320270e42cd9e797427ecfddd32c2a7b639cdc481f3c0 \
     --hash=sha256:03b20e52b7d31be571c9c06b74746746d4eb82fc260e594dc662ed48145e9efd \
