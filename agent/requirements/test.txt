@@ -85,10 +85,9 @@ execnet==1.9.0 \
 flake8==4.0.1 \
     --hash=sha256:479b1304f72536a55948cb40a32dce8bb0ffe3501e26eaf292c7e60eb5e0428d \
     --hash=sha256:806e034dda44114815e23c16ef92f95c91e4c71100ff52813adf7132a6ad870d
-importlib-metadata==0.22 \
-    --hash=sha256:652234b6ab8f2506ae58e528b6fbcc668831d3cc758e1bc01ef438d328b68cdb \
-    --hash=sha256:6f264986fb88042bc1f0535fa9a557e6a376cfe5679dc77caac7fe8b5d43d05f \
-    # via pluggy, pytest
+importlib-metadata==4.8.2 \
+    --hash=sha256:53ccfd5c134223e497627b9815d5030edf77d2ed573922f7a0b8f8bb81a1c100 \
+    --hash=sha256:75bdec14c397f528724c1bfd9709d660b33a4d2e77387a3358f20b848bb5e5fb    # via pluggy, pytest
 isort==4.3.21 \
     --hash=sha256:54da7e92468955c4fceacd0c86bd0ec997b0e1ee80d97f67c35a78b719dccab1 \
     --hash=sha256:6e811fcb295968434526407adb8796944f1988c5b65e8139058f2014cbe100fd
