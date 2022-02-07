@@ -35,10 +35,9 @@ connexion==2.10.0 \
 decorator==5.1.1 \
     --hash=sha256:637996211036b6385ef91435e4fae22989472f9d571faba8927ba8253acbc330 \
     --hash=sha256:b8c3f85900b9dc423225913c5aace94729fe1fa9763b38939a95226f02d37186    # via sqlalchemy-migrate
-ecdsa==0.13.2 \
-    --hash=sha256:20c17e527e75acad8f402290e158a6ac178b91b881f941fc6ea305bfdfb9657c \
-    --hash=sha256:5c034ffa23413ac923541ceb3ac14ec15a0d2530690413bff58c12b80e56d884 \
-    # via python-jose
+ecdsa==0.17.0 \
+    --hash=sha256:5cf31d5b33743abe0dfc28999036c849a69d548f994b535e527ee3cb7f3ef676 \
+    --hash=sha256:b9f500bb439e4153d0330610f5d26baaf18d17b8ced1bc54410d189385ea68aa    # via python-jose
 flask-compress==1.4.0 \
     --hash=sha256:468693f4ddd11ac6a41bca4eb5f94b071b763256d54136f77957cfee635badb3
 flask-wtf==0.14.2 \
