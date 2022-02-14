@@ -101,10 +101,9 @@ flake8==4.0.1 \
 hypothesis==4.38.3 \
     --hash=sha256:966580e397c9f35810f5d8ee129f34709691f0ac348f70c10c6599401971ba39 \
     --hash=sha256:a0fb2b63f3244e220917d5864c9963253ac22c2e273030b8fff7c0fefa79afb3
-importlib-metadata==0.23 \
-    --hash=sha256:aa18d7378b00b40847790e7c27e11673d7fed219354109d0e7b9e5b25dc3ad26 \
-    --hash=sha256:d5f18a79777f3aa179c145737780282e27b508fc8fd688cb17c7a813e8bd39af \
-    # via pluggy, pytest
+importlib-metadata==4.11.0 \
+    --hash=sha256:6affcdb3aec542dd98df8211e730bba6c5f2bec8288d47bacacde898f548c9ad \
+    --hash=sha256:9e5e553bbba1843cb4a00823014b907616be46ee503d2b9ba001d214a8da218f    # via pluggy, pytest
 isort==4.3.21 \
     --hash=sha256:54da7e92468955c4fceacd0c86bd0ec997b0e1ee80d97f67c35a78b719dccab1 \
     --hash=sha256:6e811fcb295968434526407adb8796944f1988c5b65e8139058f2014cbe100fd
