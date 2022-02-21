@@ -41,8 +41,9 @@ click==8.0.4 \
 entrypoints==0.4 \
     --hash=sha256:b706eddaa9218a19ebcd67b56818f05bb27589b1ca9e8d797b74affad4ccacd4 \
     --hash=sha256:f174b5ff827504fd3cd97cc3f8649f3693f51538c7e4bdf3ef002c8429d42f9f    # via flake8
-flake8-black==0.1.1 \
-    --hash=sha256:56f85aaa5a83f06a3f61e680e3b50f156b5e557ebdcb964d823d86f4c108b0c8
+flake8-black==0.2.4 \
+    --hash=sha256:0a70dfd97c8439827f365dc6dbc6c8c9cc087f0833625c6cc6848ff7876256be \
+    --hash=sha256:a7871bfd1cbff431a1fc91ba60ae154510c80f575e6b9a2bbb13dfb4650afd22
 flake8==4.0.1 \
     --hash=sha256:479b1304f72536a55948cb40a32dce8bb0ffe3501e26eaf292c7e60eb5e0428d \
     --hash=sha256:806e034dda44114815e23c16ef92f95c91e4c71100ff52813adf7132a6ad870d
