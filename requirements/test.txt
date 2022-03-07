@@ -99,9 +99,9 @@ flake8-black==0.3.2 \
 flake8==4.0.1 \
     --hash=sha256:479b1304f72536a55948cb40a32dce8bb0ffe3501e26eaf292c7e60eb5e0428d \
     --hash=sha256:806e034dda44114815e23c16ef92f95c91e4c71100ff52813adf7132a6ad870d
-hypothesis==4.38.3 \
-    --hash=sha256:966580e397c9f35810f5d8ee129f34709691f0ac348f70c10c6599401971ba39 \
-    --hash=sha256:a0fb2b63f3244e220917d5864c9963253ac22c2e273030b8fff7c0fefa79afb3
+hypothesis==6.39.2 \
+    --hash=sha256:7a16ba804baeebdcc5dc4638c32c5fc3fc552c1be30ae21a84c5d9c802b06e31 \
+    --hash=sha256:8685bc3a1da8527334b38fd84bdb627dbbff9959ed9c9592e32292fd091f748c
 importlib-metadata==4.11.2 \
     --hash=sha256:b36ffa925fe3139b2f6ff11d6925ffd4fa7bc47870165e3ac260ac7b4f91e6ac \
     --hash=sha256:d16e8c1deb60de41b8e8ed21c1a7b947b0bc62fab7e1d470bcdf331cea2e6735    # via pluggy, pytest
