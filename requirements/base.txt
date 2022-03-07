@@ -49,9 +49,9 @@ flask==2.0.3 \
     --hash=sha256:e1120c228ca2f553b470df4a5fa927ab66258467526069981b3eb0a91902687d
 future==0.18.2 \
     --hash=sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d    # via python-jose
-google-api-core==1.14.2 \
-    --hash=sha256:2c23fbc81c76b941ffb71301bb975ed66a610e9b03f918feacd1ed59cf43a6ec \
-    --hash=sha256:b2b91107bcc3b981633c89602b46451f6474973089febab3ee51c49cb7ae6a1f
+google-api-core==2.6.0 \
+    --hash=sha256:3c9f0c539281529e26cc5631dba911ded66e27ed91f269b58fc4eb53d4b81ce8 \
+    --hash=sha256:56551465be3e42966cfcb6f9243caf60aa79d023b763351876cf9702735132f4
 google-auth==1.6.3 \
     --hash=sha256:0f7c6a64927d34c1a474da92cfc59e552a5d3b940d3266606c6a28b72888b9e4 \
     --hash=sha256:20705f6803fd2c4d1cc2dcb0df09d4dfcb9a7d51fd59e94a3a28231fd93119ed
