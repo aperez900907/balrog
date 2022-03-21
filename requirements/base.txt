@@ -26,10 +26,9 @@ chardet==4.0.0 \
 click==8.0.4 \
     --hash=sha256:6a7a62563bbfabfda3a38f3023a1db4a35978c0abd76f6c9605ecd6554d6d9b1 \
     --hash=sha256:8458d7b1287c5fb128c90e23381cf99dcde74beaf6c7ff6384ce84d6fe090adb    # via clickclick, flask
-clickclick==1.2.2 \
-    --hash=sha256:4a890aaa9c3990cfabd446294eb34e3dc89701101ac7b41c1bff85fc210f6d23 \
-    --hash=sha256:ab8f229fb9906a86634bdfc6fabfc2b665f44804170720db4f6e1d98f8a58f3d \
-    # via connexion
+clickclick==20.10.2 \
+    --hash=sha256:4efb13e62353e34c5eef7ed6582c4920b418d7dedc86d819e22ee089ba01802c \
+    --hash=sha256:c8f33e6d9ec83f68416dd2136a7950125bd256ec39ccc9a85c6e280a16be2bb5    # via connexion
 connexion==1.5.3 \
     --hash=sha256:a7b8629c7175017ef4bb9cb234d172aaf91ad48f769513dae21142e42668fa04 \
     --hash=sha256:d71932ad6de4f9558e37f474528f073b38faacdd2f9b7870e728ecb53d7eac1d
