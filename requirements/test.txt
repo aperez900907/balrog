@@ -155,10 +155,9 @@ pytest==7.1.1 \
 toml==0.10.2 \
     --hash=sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b \
     --hash=sha256:b3bda1d108d5dd99f4a20d24d9c348e91c4db7ab1b749200bded2f839ccbe68f    # via black, check-manifest
-toposort==1.5 \
-    --hash=sha256:d80128b83b411d503b0cdb4a8f172998bc1d3b434b6402a349b8ebd734d51a80 \
-    --hash=sha256:dba5ae845296e3bf37b042c640870ffebcdeb8cd4df45adaa01d8c5476c557dd \
-    # via pip-compile-multi
+toposort==1.7 \
+    --hash=sha256:8ed8e109e96ae30bf66da2d2155e4eb9989d9c5c743c837e37d9774a4eddd804 \
+    --hash=sha256:ddc2182c42912a440511bd7ff5d3e6a1cabc3accbc674a3258c8c41cbfbb2125    # via pip-compile-multi
 wcwidth==0.1.7 \
     --hash=sha256:3df37372226d6e63e1b1e1eda15c594bca98a22d33a23832a90998faa96bc65e \
     --hash=sha256:f4ebe71925af7b40a864553f761ed559b43544f8f71746c2d756c7fe788ade7c \
