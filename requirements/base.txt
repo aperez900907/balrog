@@ -64,9 +64,9 @@ google-cloud-storage==2.3.0 \
 google-resumable-media==2.3.3 \
     --hash=sha256:27c52620bd364d1c8116eaac4ea2afcbfb81ae9139fb3199652fcac1724bfb6c \
     --hash=sha256:5b52774ea7a829a8cdaa8bd2d4c3d4bc660c91b30857ab2668d0eb830f4ea8c5    # via google-cloud-storage
-googleapis-common-protos==1.6.0 \
-    --hash=sha256:e61b8ed5e36b976b487c6e7b15f31bb10c7a0ca7bd5c0e837f4afab64b53a0c6 \
-    # via google-api-core
+googleapis-common-protos==1.56.2 \
+    --hash=sha256:023eaea9d8c1cceccd9587c6af6c20f33eeeb05d4148670f2b0322dc1511700c \
+    --hash=sha256:b09b56f5463070c2153753ef123f07d2e49235e89148e9b2459ec8ed2f68d7d3    # via google-api-core
 idna==3.3 \
     --hash=sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff \
     --hash=sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d    # via requests
