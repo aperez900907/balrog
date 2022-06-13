@@ -304,6 +304,6 @@ wtforms==3.0.1 \
     --hash=sha256:837f2f0e0ca79481b92884962b914eba4e72b7a2daaf1f939c890ed0124b834b    # via flask-wtf
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==41.2.0 \
-    --hash=sha256:4380abcf2a4ffd1a5ba22d687c6d690dce83b2b51c70e9c6d09f7e8c7e8040dc \
-    --hash=sha256:66b86bbae7cc7ac2e867f52dc08a6bd064d938bac59dfec71b9b565dd36d6012
+setuptools==62.4.0 \
+    --hash=sha256:5a844ad6e190dccc67d6d7411d119c5152ce01f7c76be4d8a1eaa314501bba77 \
+    --hash=sha256:bf8a748ac98b09d32c9a64a995a6b25921c96cc5743c1efa82763ba80ff54e91
