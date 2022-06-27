@@ -54,10 +54,9 @@ coverage==6.4.1 \
     --hash=sha256:fd180ed867e289964404051a958f7cccabdeed423f91a899829264bb7974d3d3 \
     --hash=sha256:fdb6f7bd51c2d1714cea40718f6149ad9be6a2ee7d93b19e9f00934c0f2a74d9 \
     --hash=sha256:ffa9297c3a453fba4717d06df579af42ab9a28022444cae7fa605af4df612d54    # via pytest-cov
-importlib-metadata==0.22 \
-    --hash=sha256:652234b6ab8f2506ae58e528b6fbcc668831d3cc758e1bc01ef438d328b68cdb \
-    --hash=sha256:6f264986fb88042bc1f0535fa9a557e6a376cfe5679dc77caac7fe8b5d43d05f \
-    # via pluggy, pytest
+importlib-metadata==4.12.0 \
+    --hash=sha256:637245b8bab2b6502fcbc752cc4b7a6f6243bb02b31c5c26156ad103d3d45670 \
+    --hash=sha256:7401a975809ea1fdc658c3aa4f78cc2195a0e019c5cbc4c06122884e9ae80c23    # via pluggy, pytest
 more-itertools==7.2.0 \
     --hash=sha256:409cd48d4db7052af495b09dec721011634af3753ae1ef92d2b32f73a745f832 \
     --hash=sha256:92b8c4b06dac4f0611c0729b2f2ede52b2e1bac1ab48f089c7ddc12e26bb60c4 \
